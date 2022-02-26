@@ -10,6 +10,7 @@ Afterwards, I went in and was able to make formulas to pull data out of the Kick
 
 ## Results 
 I was able to conclude from the Theater Outcomes by Launch Date data that the most successful month is May. Towards the end of the year, campaigns are less likely to take place as launch dates are fewer in the months of November through December. This may be common because others know these are the most unsuccessful months. 
+! [Theater Outcomes by Launch Date] (https://github.com/alishalopez/repo-kickstarter-analysis/blob/a50df8fd71daf9aa14805e853f64e46c893790e2/resources/Theater_Outcomes_vs_Launch.png)
 
 The Outcomes Based on Goals showed an inverse relationship for successful and failed campaigns. Smaller goals were more successful than larger goals as they are more attainable and realistic. Louise’s goal was over $10,000. The amount $10,000 to $14,999 had a 100% success rate, which is great news for Louise.
 
